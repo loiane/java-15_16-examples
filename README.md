@@ -1,14 +1,20 @@
-## Getting Started
+## Java 15 and 16 Examples
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+In this repo you will find some examples of how to use Java 15 and 16 new features.
 
-## Folder Structure
+## JDK 15
 
-The workspace contains two folders by default, where:
+These are the JEPs demonstrated in the examples:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 360: [Sealed Classes (Preview)](https://openjdk.java.net/jeps/360)
+- 375: [Pattern Matching for instanceof (Second Preview)](https://openjdk.java.net/jeps/375)
+- 378: [Text Blocks](https://openjdk.java.net/jeps/378)
+- 384: [Records (Second Preview)](https://openjdk.java.net/jeps/384)
 
-## Dependency Management
+## JDK 16
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+These are the JEPs demonstrated in the examples:
+
+- 394: [Pattern Matching for instanceof](https://openjdk.java.net/jeps/394)
+- 395: [Records](https://openjdk.java.net/jeps/395) 
+- 397: [Sealed Classes (Second Preview)](https://openjdk.java.net/jeps/397)
