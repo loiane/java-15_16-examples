@@ -74,7 +74,7 @@ public class Java15And16Features {
             return s.getSide() * s.getSide();
         }
         return 0;
-        // future state, not supported yet
+        // future state, not supported yet - JDK 17: JEP 406
         /* return switch (shape) {
             case Circle c -> Math.PI * c.getRadius() * c.getRadius();
             case Rectangle r -> r.getLength() * r.getWidth();
